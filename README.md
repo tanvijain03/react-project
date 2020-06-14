@@ -1,4 +1,4 @@
-# react-project
+# React-project (meeting-scheduler)
 
 ## Steps to make it run
 
